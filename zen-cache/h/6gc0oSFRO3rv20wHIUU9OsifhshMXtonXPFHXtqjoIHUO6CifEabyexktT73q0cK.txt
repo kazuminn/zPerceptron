@@ -1,4 +1,4 @@
-3412641 1582298451 964834156 WDXkm-8pq6cg10Yzrj8m9YKcpi-nGIrNZbw0bNyzFGQcmqDcTdBMdcn1BTPffFlW /Users/kinoshitakazumi/kPerceptron/src/main.zen
+3412655 1582298472 506899408 WDXkm-8pq6cg10Yzrj8m9YKcpi-nGIrNZbw0bNyzFGQcmqDcTdBMdcn1BTPffFlW /Users/kinoshitakazumi/kPerceptron/src/main.zen
 3270290 1574563831 0 kbjhv9uxzv5wieB9DetzVh8bwWV5bQC7vLglkYOcWxNlLQy_WptZaXFPMVFfKk4i /Users/kinoshitakazumi/Downloads/zen-macos-x86_64-0.8.20191124+552247019/lib/zen/std/std.zen
 3270301 1574586111 0 20NAQCcXGNm_BDicL2nHIsV85EJopoij5FU2OMSQShLU4ewjvxq9iPZ-jLiSOBrm /Users/kinoshitakazumi/Downloads/zen-macos-x86_64-0.8.20191124+552247019/lib/zen/std/builtin.zen
 3270280 1574563831 0 U--9q0MbKn60fHRZr-a6gvxozrOMsxMqSLMFHa32ozttrBZ4w5vXOc8SOfYhVlHI /Users/kinoshitakazumi/Downloads/zen-macos-x86_64-0.8.20191124+552247019/lib/zen/std/target.zen
